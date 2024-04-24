@@ -4,7 +4,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/esirplayground/AutoBuild-OpenWrt.svg?style=flat&logo=appveyor&label=Forks&logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/esirplayground/AutoBuild-OpenWrt?label=Latest%20Commit&logo=github)
 
-Build OpenWrt firware [Lean's OpenWrt](https://github.com/coolsnowwolf/lede) using GitHub Actions  
+Build OpenWrt firmware [Lean's OpenWrt](https://github.com/coolsnowwolf/lede) using GitHub Actions  
 Hereby thank P3TERX for his amazing job: https://github.com/P3TERX/Actions-OpenWrt/  
 
 Hereby thank KFERMercer for his amazing job: https://github.com/KFERMercer/OpenWrt-CI  
